@@ -1,3 +1,6 @@
+#code soft intenship task:-3
+#https:PASSWORD-GENERATOR
+
 import random
 import string
 
